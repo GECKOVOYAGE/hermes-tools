@@ -1,0 +1,2115 @@
+{
+  "generated": "2026-06-24 19:18:23 +0000",
+  "directories": [
+    {
+      "path": "/root/.hermes",
+      "name": ".hermes",
+      "type": "dossier",
+      "created": "2026-05-28 10:38",
+      "modified": "2026-06-24 18:49",
+      "size": 437954247,
+      "count": 6441,
+      "note": "Profil Hermes principal: config, mémoire, skills, state.db, cron, sessions. À sauvegarder."
+    },
+    {
+      "path": "/docker/hermes-agent-wrlz",
+      "name": "hermes-agent-wrlz",
+      "type": "dossier",
+      "created": "2026-05-28 18:59",
+      "modified": "2026-05-28 19:01",
+      "size": 1784,
+      "count": 3,
+      "note": "Ancien/second dossier Docker Hermes agent."
+    },
+    {
+      "path": "/docker/hermes-webui-zziw",
+      "name": "hermes-webui-zziw",
+      "type": "dossier",
+      "created": "2026-05-28 19:04",
+      "modified": "2026-05-28 23:03",
+      "size": 6926,
+      "count": 4,
+      "note": "Déploiement Docker Hermes WebUI + agent. Compose/service principal."
+    },
+    {
+      "path": "/root/hermes-token-monitor",
+      "name": "hermes-token-monitor",
+      "type": "dossier",
+      "created": "2026-05-29 11:09",
+      "modified": "2026-06-04 10:06",
+      "size": 60245,
+      "count": 17,
+      "note": "Dashboard local de consommation tokens Hermes."
+    },
+    {
+      "path": "/opt/lightpanda",
+      "name": "lightpanda",
+      "type": "dossier",
+      "created": "2026-05-29 18:28",
+      "modified": "2026-05-29 18:29",
+      "size": 138217833,
+      "count": 785,
+      "note": "Navigateur headless Lightpanda installé pour tests web."
+    },
+    {
+      "path": "/root/roger-alternance",
+      "name": "roger-alternance",
+      "type": "dossier",
+      "created": "2026-06-05 15:30",
+      "modified": "2026-06-05 15:39",
+      "size": 24125,
+      "count": 4,
+      "note": "Livrables Roger alternance."
+    },
+    {
+      "path": "/root/OSINT",
+      "name": "OSINT",
+      "type": "dossier",
+      "created": "2026-06-05 18:58",
+      "modified": "2026-06-05 18:59",
+      "size": 932654,
+      "count": 54,
+      "note": "Dossier OSINT/recherche."
+    },
+    {
+      "path": "/root/ai-video-factory-v9-site",
+      "name": "ai-video-factory-v9-site",
+      "type": "dossier",
+      "created": "2026-06-10 17:07",
+      "modified": "2026-06-10 13:55",
+      "size": 262370,
+      "count": 63,
+      "note": "Version récente AI Video Factory."
+    },
+    {
+      "path": "/root/ai-video-factory-v10-investisseurs-site",
+      "name": "ai-video-factory-v10-investisseurs-site",
+      "type": "dossier",
+      "created": "2026-06-10 18:25",
+      "modified": "2026-06-10 13:55",
+      "size": 329602,
+      "count": 72,
+      "note": "Version investisseur du site AI Video Factory."
+    },
+    {
+      "path": "/root/crewAI",
+      "name": "crewAI",
+      "type": "dossier",
+      "created": "2026-06-11 16:38",
+      "modified": "2026-06-11 16:38",
+      "size": 212818197,
+      "count": 3290,
+      "note": "Expérimentation CrewAI."
+    },
+    {
+      "path": "/root/video_ai_mini_crew",
+      "name": "video_ai_mini_crew",
+      "type": "dossier",
+      "created": "2026-06-11 16:52",
+      "modified": "2026-06-11 16:54",
+      "size": 33488,
+      "count": 14,
+      "note": "Mini crew IA vidéo."
+    },
+    {
+      "path": "/root/ai_agent_architect_site",
+      "name": "ai_agent_architect_site",
+      "type": "dossier",
+      "created": "2026-06-11 18:23",
+      "modified": "2026-06-11 18:23",
+      "size": 38966,
+      "count": 2,
+      "note": "Mini-site AI Agent Architect."
+    },
+    {
+      "path": "/root/roger-mini-site",
+      "name": "roger-mini-site",
+      "type": "dossier",
+      "created": "2026-06-12 09:23",
+      "modified": "2026-06-12 09:31",
+      "size": 66328,
+      "count": 12,
+      "note": "Mini-site Roger alternance / commerce international."
+    },
+    {
+      "path": "/root/ai-architecture-advisor",
+      "name": "ai-architecture-advisor",
+      "type": "dossier",
+      "created": "2026-06-12 15:04",
+      "modified": "2026-06-12 16:12",
+      "size": 105787285,
+      "count": 315,
+      "note": "Prototype SaaS questionnaire / conseiller architecture IA."
+    },
+    {
+      "path": "/root/offres-auto-bordeaux-1-3-1-5dci-2026-06-13",
+      "name": "offres-auto-bordeaux-1-3-1-5dci-2026-06-13",
+      "type": "dossier",
+      "created": "2026-06-13 10:18",
+      "modified": "2026-06-13 10:18",
+      "size": 21642,
+      "count": 6,
+      "note": "Recherche offres auto Bordeaux 1.3/1.5 dCi."
+    },
+    {
+      "path": "/root/offres-auto-bordeaux-budget-7000-2026-06-13",
+      "name": "offres-auto-bordeaux-budget-7000-2026-06-13",
+      "type": "dossier",
+      "created": "2026-06-13 10:36",
+      "modified": "2026-06-13 10:36",
+      "size": 16510,
+      "count": 4,
+      "note": "Recherche offres auto Bordeaux budget 7000."
+    },
+    {
+      "path": "/root/dessinezen-replay",
+      "name": "dessinezen-replay",
+      "type": "dossier",
+      "created": "2026-06-14 19:15",
+      "modified": "2026-06-14 19:57",
+      "size": 109681749,
+      "count": 10,
+      "note": "Transcription/replay DessineZen."
+    },
+    {
+      "path": "/root/dessinezen-videos-publiques-textes",
+      "name": "dessinezen-videos-publiques-textes",
+      "type": "dossier",
+      "created": "2026-06-14 20:01",
+      "modified": "2026-06-14 20:06",
+      "size": 410433,
+      "count": 27,
+      "note": "Textes vidéos publiques DessineZen."
+    },
+    {
+      "path": "/root/transcriptions",
+      "name": "transcriptions",
+      "type": "dossier",
+      "created": "2026-06-15 13:23",
+      "modified": "2026-06-15 15:01",
+      "size": 4418381,
+      "count": 87,
+      "note": "Transcriptions diverses."
+    },
+    {
+      "path": "/var/www/hyundai-diagnostic",
+      "name": "hyundai-diagnostic",
+      "type": "dossier",
+      "created": "2026-06-19 17:18",
+      "modified": "2026-06-19 17:18",
+      "size": 46254,
+      "count": 10,
+      "note": "Mini-site diagnostic Hyundai/OBD."
+    },
+    {
+      "path": "/root/Thomas",
+      "name": "Thomas",
+      "type": "dossier",
+      "created": "2026-06-20 12:53",
+      "modified": "2026-06-24 11:19",
+      "size": 5120395,
+      "count": 22,
+      "note": "Dossier de travail Thomas."
+    },
+    {
+      "path": "/root/gecko-voyage-modern",
+      "name": "gecko-voyage-modern",
+      "type": "dossier",
+      "created": "2026-06-21 19:13",
+      "modified": "2026-06-21 19:13",
+      "size": 920636,
+      "count": 48,
+      "note": "Mini-site Gecko Voyage."
+    },
+    {
+      "path": "/docker/netflix-perso",
+      "name": "netflix-perso",
+      "type": "dossier",
+      "created": "2026-06-22 16:35",
+      "modified": "2026-06-22 16:35",
+      "size": 17909664214,
+      "count": 1464,
+      "note": "Application Netflix Perso + téléchargements. Dossier volumineux; exclure les médias pour backup léger."
+    },
+    {
+      "path": "/var/www/gms",
+      "name": "gms",
+      "type": "dossier",
+      "created": "2026-06-23 14:36",
+      "modified": "2026-06-23 18:49",
+      "size": 58152,
+      "count": 2,
+      "note": "Site GMS Lanzarote marine-electrician public."
+    },
+    {
+      "path": "/root/LbcWatcher",
+      "name": "LbcWatcher",
+      "type": "dossier",
+      "created": "2026-06-24 09:58",
+      "modified": "2026-06-24 10:00",
+      "size": 143978,
+      "count": 15,
+      "note": "Watcher Leboncoin / annonces."
+    },
+    {
+      "path": "/var/www/gms-bitoma",
+      "name": "gms-bitoma",
+      "type": "dossier",
+      "created": "2026-06-24 11:28",
+      "modified": "2026-06-24 11:56",
+      "size": 92749,
+      "count": 3,
+      "note": "Variante / copie GMS multilingue."
+    },
+    {
+      "path": "/var/www/GmsVersionToTo",
+      "name": "GmsVersionToTo",
+      "type": "dossier",
+      "created": "2026-06-24 11:31",
+      "modified": "2026-06-24 11:56",
+      "size": 92749,
+      "count": 3,
+      "note": "Alias/variante GMS avec casse spécifique."
+    },
+    {
+      "path": "/root/hermes-tools-site",
+      "name": "hermes-tools-site",
+      "type": "dossier",
+      "created": "2026-06-24 18:25",
+      "modified": "2026-06-24 18:29",
+      "size": 65823,
+      "count": 3,
+      "note": "Source éditable du mini-site actuel Tools/Skills/Inventaire."
+    },
+    {
+      "path": "/var/www/hermes-tools",
+      "name": "hermes-tools",
+      "type": "dossier",
+      "created": "2026-06-24 18:25",
+      "modified": "2026-06-24 18:29",
+      "size": 65823,
+      "count": 3,
+      "note": "Copie servie publiquement sous /hermes-tools/."
+    }
+  ],
+  "deliverables": [
+    {
+      "path": "/root/hotel_ibis_agent_bob_resume.pdf",
+      "name": "hotel_ibis_agent_bob_resume.pdf",
+      "type": "fichier",
+      "created": "2026-05-30 13:21",
+      "modified": "2026-05-30 13:21",
+      "size": 46847,
+      "count": "—"
+    },
+    {
+      "path": "/root/cnam_licence_commerce_international.pdf",
+      "name": "cnam_licence_commerce_international.pdf",
+      "type": "fichier",
+      "created": "2026-06-05 15:24",
+      "modified": "2026-06-05 15:24",
+      "size": 979112,
+      "count": "—"
+    },
+    {
+      "path": "/root/roger-alternance.tar.gz",
+      "name": "roger-alternance.tar.gz",
+      "type": "fichier",
+      "created": "2026-06-05 15:30",
+      "modified": "2026-06-05 15:30",
+      "size": 6678,
+      "count": "—"
+    },
+    {
+      "path": "/root/ai-video-factory-n8n-template.html",
+      "name": "ai-video-factory-n8n-template.html",
+      "type": "fichier",
+      "created": "2026-06-10 11:27",
+      "modified": "2026-06-10 11:27",
+      "size": 13900,
+      "count": "—"
+    },
+    {
+      "path": "/root/ai-video-factory-n8n-template.md",
+      "name": "ai-video-factory-n8n-template.md",
+      "type": "fichier",
+      "created": "2026-06-10 11:29",
+      "modified": "2026-06-10 11:29",
+      "size": 2764,
+      "count": "—"
+    },
+    {
+      "path": "/root/ai-video-factory-n8n-template.pdf",
+      "name": "ai-video-factory-n8n-template.pdf",
+      "type": "fichier",
+      "created": "2026-06-10 12:06",
+      "modified": "2026-06-10 12:06",
+      "size": 259290,
+      "count": "—"
+    },
+    {
+      "path": "/root/ai-video-factory-v2-site.zip",
+      "name": "ai-video-factory-v2-site.zip",
+      "type": "fichier",
+      "created": "2026-06-10 13:55",
+      "modified": "2026-06-10 13:55",
+      "size": 24446,
+      "count": "—"
+    },
+    {
+      "path": "/root/ai-video-factory-v3-site.zip",
+      "name": "ai-video-factory-v3-site.zip",
+      "type": "fichier",
+      "created": "2026-06-10 14:31",
+      "modified": "2026-06-10 14:31",
+      "size": 25137,
+      "count": "—"
+    },
+    {
+      "path": "/root/ai-video-factory-v4-site.zip",
+      "name": "ai-video-factory-v4-site.zip",
+      "type": "fichier",
+      "created": "2026-06-10 14:44",
+      "modified": "2026-06-10 14:44",
+      "size": 150146,
+      "count": "—"
+    },
+    {
+      "path": "/root/ai-video-factory-v6-site.zip",
+      "name": "ai-video-factory-v6-site.zip",
+      "type": "fichier",
+      "created": "2026-06-10 16:14",
+      "modified": "2026-06-10 16:14",
+      "size": 87877,
+      "count": "—"
+    },
+    {
+      "path": "/root/ai-video-factory-v8-site.zip",
+      "name": "ai-video-factory-v8-site.zip",
+      "type": "fichier",
+      "created": "2026-06-10 16:53",
+      "modified": "2026-06-10 16:53",
+      "size": 102462,
+      "count": "—"
+    },
+    {
+      "path": "/root/ai-video-factory-v5-site.zip",
+      "name": "ai-video-factory-v5-site.zip",
+      "type": "fichier",
+      "created": "2026-06-10 16:53",
+      "modified": "2026-06-10 16:53",
+      "size": 102462,
+      "count": "—"
+    },
+    {
+      "path": "/root/ai-video-factory-v7-site.zip",
+      "name": "ai-video-factory-v7-site.zip",
+      "type": "fichier",
+      "created": "2026-06-10 16:53",
+      "modified": "2026-06-10 16:53",
+      "size": 102462,
+      "count": "—"
+    },
+    {
+      "path": "/root/ai-video-factory-v9-site.zip",
+      "name": "ai-video-factory-v9-site.zip",
+      "type": "fichier",
+      "created": "2026-06-10 17:10",
+      "modified": "2026-06-10 17:10",
+      "size": 107349,
+      "count": "—"
+    },
+    {
+      "path": "/root/ai-video-factory-v8-investisseurs-site.zip",
+      "name": "ai-video-factory-v8-investisseurs-site.zip",
+      "type": "fichier",
+      "created": "2026-06-10 18:15",
+      "modified": "2026-06-10 18:15",
+      "size": 118778,
+      "count": "—"
+    },
+    {
+      "path": "/root/ai-video-factory-v10-investisseurs-site.zip",
+      "name": "ai-video-factory-v10-investisseurs-site.zip",
+      "type": "fichier",
+      "created": "2026-06-10 18:29",
+      "modified": "2026-06-10 18:29",
+      "size": 135459,
+      "count": "—"
+    },
+    {
+      "path": "/root/ai_agent_architect_site_vA.zip",
+      "name": "ai_agent_architect_site_vA.zip",
+      "type": "fichier",
+      "created": "2026-06-11 18:23",
+      "modified": "2026-06-11 18:23",
+      "size": 10622,
+      "count": "—"
+    },
+    {
+      "path": "/root/roger-mini-site-v02.zip",
+      "name": "roger-mini-site-v02.zip",
+      "type": "fichier",
+      "created": "2026-06-12 09:31",
+      "modified": "2026-06-12 09:31",
+      "size": 23186,
+      "count": "—"
+    },
+    {
+      "path": "/root/ai-architecture-advisor-v1.zip",
+      "name": "ai-architecture-advisor-v1.zip",
+      "type": "fichier",
+      "created": "2026-06-12 15:11",
+      "modified": "2026-06-12 15:11",
+      "size": 22674,
+      "count": "—"
+    },
+    {
+      "path": "/root/ai-architecture-advisor-v2.zip",
+      "name": "ai-architecture-advisor-v2.zip",
+      "type": "fichier",
+      "created": "2026-06-12 16:25",
+      "modified": "2026-06-12 16:25",
+      "size": 37394,
+      "count": "—"
+    },
+    {
+      "path": "/root/offres-auto-bordeaux-1-3-1-5dci-2026-06-13.zip",
+      "name": "offres-auto-bordeaux-1-3-1-5dci-2026-06-13.zip",
+      "type": "fichier",
+      "created": "2026-06-13 10:18",
+      "modified": "2026-06-13 10:18",
+      "size": 8659,
+      "count": "—"
+    },
+    {
+      "path": "/root/offres-auto-bordeaux-budget-7000-2026-06-13.zip",
+      "name": "offres-auto-bordeaux-budget-7000-2026-06-13.zip",
+      "type": "fichier",
+      "created": "2026-06-13 10:36",
+      "modified": "2026-06-13 10:36",
+      "size": 6457,
+      "count": "—"
+    },
+    {
+      "path": "/root/dessinezen-replay-complet-audio-transcription.zip",
+      "name": "dessinezen-replay-complet-audio-transcription.zip",
+      "type": "fichier",
+      "created": "2026-06-14 19:22",
+      "modified": "2026-06-14 19:22",
+      "size": 49255175,
+      "count": "—"
+    },
+    {
+      "path": "/root/dessinezen-replay-transcription.zip",
+      "name": "dessinezen-replay-transcription.zip",
+      "type": "fichier",
+      "created": "2026-06-14 19:22",
+      "modified": "2026-06-14 19:22",
+      "size": 134990,
+      "count": "—"
+    },
+    {
+      "path": "/root/dessinezen-liste-videos-publiques.zip",
+      "name": "dessinezen-liste-videos-publiques.zip",
+      "type": "fichier",
+      "created": "2026-06-14 19:57",
+      "modified": "2026-06-14 19:57",
+      "size": 1406,
+      "count": "—"
+    },
+    {
+      "path": "/root/dessinezen-videos-publiques-textes.zip",
+      "name": "dessinezen-videos-publiques-textes.zip",
+      "type": "fichier",
+      "created": "2026-06-14 20:06",
+      "modified": "2026-06-14 20:06",
+      "size": 159248,
+      "count": "—"
+    },
+    {
+      "path": "/root/gecko-voyage-modern.zip",
+      "name": "gecko-voyage-modern.zip",
+      "type": "fichier",
+      "created": "2026-06-21 19:14",
+      "modified": "2026-06-21 19:14",
+      "size": 888425,
+      "count": "—"
+    },
+    {
+      "path": "/root/backup-hermes-netflix-SANS-VIDEOS-20260622-1927.tar.gz",
+      "name": "backup-hermes-netflix-SANS-VIDEOS-20260622-1927.tar.gz",
+      "type": "fichier",
+      "created": "2026-06-22 19:27",
+      "modified": "2026-06-22 19:28",
+      "size": 563738755,
+      "count": "—"
+    },
+    {
+      "path": "/root/electricien-bateaux-lanzarote.tar.gz",
+      "name": "electricien-bateaux-lanzarote.tar.gz",
+      "type": "fichier",
+      "created": "2026-06-23 14:34",
+      "modified": "2026-06-23 14:34",
+      "size": 5178,
+      "count": "—"
+    },
+    {
+      "path": "/root/electricien-bateaux-lanzarote-en.tar.gz",
+      "name": "electricien-bateaux-lanzarote-en.tar.gz",
+      "type": "fichier",
+      "created": "2026-06-23 14:35",
+      "modified": "2026-06-23 14:35",
+      "size": 5046,
+      "count": "—"
+    },
+    {
+      "path": "/root/gms-site-v2-multilingual.tar.gz",
+      "name": "gms-site-v2-multilingual.tar.gz",
+      "type": "fichier",
+      "created": "2026-06-23 18:43",
+      "modified": "2026-06-23 18:43",
+      "size": 10395,
+      "count": "—"
+    },
+    {
+      "path": "/root/gms-site-v2-multilang.tar.gz",
+      "name": "gms-site-v2-multilang.tar.gz",
+      "type": "fichier",
+      "created": "2026-06-23 18:53",
+      "modified": "2026-06-23 18:53",
+      "size": 10019,
+      "count": "—"
+    },
+    {
+      "path": "/root/site-vitrine-qa-protocol.md",
+      "name": "site-vitrine-qa-protocol.md",
+      "type": "fichier",
+      "created": "2026-06-24 15:06",
+      "modified": "2026-06-24 15:06",
+      "size": 1311,
+      "count": "—"
+    },
+    {
+      "path": "/root/hermes-tools-site.tar.gz",
+      "name": "hermes-tools-site.tar.gz",
+      "type": "fichier",
+      "created": "2026-06-24 18:27",
+      "modified": "2026-06-24 18:34",
+      "size": 13272,
+      "count": "—"
+    }
+  ],
+  "servers": [
+    {
+      "name": "Netflix Perso V1",
+      "type": "Docker Compose / media server",
+      "path": "/docker/netflix-perso",
+      "status": "running",
+      "access": "Torrent UI : port 8090 · Jellyfin : port 8096 · qBittorrent : 6881",
+      "services": [
+        "torrent-ui",
+        "Jellyfin",
+        "qBittorrent"
+      ],
+      "note": "Stack privée façon Netflix : upload .torrent/magnet, suivi téléchargement, streaming navigateur via Jellyfin. Données média lourdes dans data/media à exclure du backup léger.",
+      "created": "2026-06-22 16:35",
+      "modified": "2026-06-22 16:35",
+      "size": "17G",
+      "files": "4029"
+    },
+    {
+      "name": "Hermes WebUI + Agent",
+      "type": "Docker Compose / assistant web",
+      "path": "/docker/hermes-webui-zziw",
+      "status": "running",
+      "access": "WebUI exposée sur port Docker 32768 · agent interne 8642",
+      "services": [
+        "hermes-webui",
+        "hermes-agent",
+        "volume hermes-home"
+      ],
+      "note": "Déploiement Hostinger Hermes WebUI avec volume Hermes partagé.",
+      "created": "2026-05-28 19:04",
+      "modified": "2026-05-28 23:03",
+      "size": "20K",
+      "files": "4"
+    },
+    {
+      "name": "Hermes Agent Hostinger initial",
+      "type": "Docker Compose / agent",
+      "path": "/docker/hermes-agent-wrlz",
+      "status": "running",
+      "access": "port Docker 32769",
+      "services": [
+        "hermes-agent"
+      ],
+      "note": "Instance agent initiale/secondaire conservée dans l’inventaire.",
+      "created": "2026-05-28 18:59",
+      "modified": "2026-05-28 19:01",
+      "size": "20K",
+      "files": "3"
+    },
+    {
+      "name": "Hermes Token Monitor",
+      "type": "systemd / dashboard local",
+      "path": "/root/hermes-token-monitor",
+      "status": "running",
+      "access": "127.0.0.1:8787",
+      "services": [
+        "Flask dashboard",
+        "state.db usage",
+        "systemd"
+      ],
+      "note": "Suivi consommation tokens Hermes/OpenAI/Codex, service systemd hermes-token-monitor.",
+      "created": "2026-05-29 11:09",
+      "modified": "2026-06-04 10:06",
+      "size": "71M",
+      "files": "6377"
+    },
+    {
+      "name": "Lightpanda Browser CDP",
+      "type": "systemd / navigateur headless",
+      "path": "/opt/lightpanda",
+      "status": "running",
+      "access": "127.0.0.1:9222",
+      "services": [
+        "CDP",
+        "browser automation",
+        "cache local"
+      ],
+      "note": "Navigateur headless local pour tests web rapides, capture et QA automatisée.",
+      "created": "2026-05-29 18:28",
+      "modified": "2026-05-29 18:29",
+      "size": "136M",
+      "files": "814"
+    },
+    {
+      "name": "Nginx Static Sites",
+      "type": "Nginx / sites statiques",
+      "path": "/etc/nginx/sites-available/hyundai-diagnostic",
+      "status": "running",
+      "access": "port 80 · routes /, /gms/, /gms-bitoma/, /GmsVersionToTo/, /hermes-tools/",
+      "services": [
+        "hyundai-diagnostic",
+        "gms",
+        "hermes-tools"
+      ],
+      "note": "Serveur public Nginx principal, routes ajoutées sans remplacer les sites existants.",
+      "created": "2026-06-19 17:19",
+      "modified": "2026-06-24 18:25",
+      "size": "4.0K",
+      "files": "1"
+    }
+  ],
+  "useful_modifications": [
+    {
+      "date": "2026-06-22",
+      "title": "Création Netflix Perso V1",
+      "kind": "serveur Docker",
+      "body": "Ajout d’une stack Docker composée de torrent-ui, qBittorrent et Jellyfin. Objectif : workflow torrent légal privé, suivi progression, puis streaming navigateur."
+    },
+    {
+      "date": "2026-06-24",
+      "title": "Mise à jour stratégie backup Netflix Perso",
+      "kind": "sauvegarde",
+      "body": "Le backup léger doit inclure compose, app et configs utiles, mais exclure data/media, téléchargements vidéo, caches/transcodes Jellyfin et fichiers reconstructibles."
+    },
+    {
+      "date": "2026-05-28",
+      "title": "Déploiement Hermes WebUI + agent",
+      "kind": "serveur Docker",
+      "body": "Création du dossier Docker Hermes WebUI/Agent, volume Hermes home partagé et service web exposé par Docker."
+    },
+    {
+      "date": "2026-05-29",
+      "title": "Ajout Hermes Token Monitor",
+      "kind": "observabilité",
+      "body": "Service systemd local sur 127.0.0.1:8787 pour suivre state.db, consommation token, stats et analyses de coûts."
+    },
+    {
+      "date": "2026-05-29",
+      "title": "Installation Lightpanda Browser",
+      "kind": "QA web",
+      "body": "Service local CDP sur 127.0.0.1:9222 pour navigation headless et tests d’interfaces sans navigateur lourd."
+    },
+    {
+      "date": "2026-06-19",
+      "title": "Site Hyundai Diagnostic en racine Nginx",
+      "kind": "site statique",
+      "body": "Site multi-pages de diagnostic automobile publié comme racine /var/www/hyundai-diagnostic."
+    },
+    {
+      "date": "2026-06-23",
+      "title": "Site GMS Lanzarote",
+      "kind": "site statique",
+      "body": "Déploiement /gms/ pour le site marine-électricien GMS, avec backups de versions et attribution josédelapalma."
+    },
+    {
+      "date": "2026-06-24",
+      "title": "Variantes GMS Bitoma / ToTo",
+      "kind": "site statique",
+      "body": "Ajout routes /gms-bitoma/ et /GmsVersionToTo/ avec gestion de casse et symlink, puis vérification Nginx."
+    },
+    {
+      "date": "2026-06-24",
+      "title": "Hermes Tools Map étendu",
+      "kind": "documentation VPS",
+      "body": "Mini-site /hermes-tools/ enrichi : outils, skills, répertoires, livrables, sauvegarde, serveurs réalisés et modifications utiles."
+    },
+    {
+      "date": "2026-06-24",
+      "title": "Sécurisation de l’inventaire public",
+      "kind": "sécurité",
+      "body": "Inventaire limité aux chemins, tailles, dates et notes générales. Pas de secrets, tokens, .env, clés privées ni contenus de session."
+    }
+  ],
+  "new_skills": {
+    "generated": "2026-06-24 19:23:37 +0000",
+    "threshold": "2026-06-10",
+    "count": 36,
+    "active_count": 26,
+    "archived_count": 10,
+    "items": [
+      {
+        "name": "architecture-diagram",
+        "category": "creative",
+        "description": "Dark-themed SVG architecture/cloud/infra diagrams as HTML.",
+        "tags": [],
+        "path": "/root/.hermes/skills/creative/architecture-diagram",
+        "created": "2026-06-10 12:08",
+        "modified": "2026-06-10 12:08",
+        "references": 0,
+        "reference_files": [],
+        "archived": false
+      },
+      {
+        "name": "spoken-message-delivery",
+        "category": "media",
+        "description": "Create and deliver concise spoken/audio replies for messaging platforms with TTS, timing control, language matching, script discipline, and provider limitation notes.",
+        "tags": [],
+        "path": "/root/.hermes/skills/media/spoken-message-delivery",
+        "created": "2026-06-11 11:58",
+        "modified": "2026-06-11 11:58",
+        "references": 1,
+        "reference_files": [
+          "references/french-voice-timing.md"
+        ],
+        "archived": false
+      },
+      {
+        "name": "multi-agent-application-design",
+        "category": "software-development",
+        "description": "Design and scaffold multi-agent AI applications from existing agent frameworks without modifying framework internals.",
+        "tags": [],
+        "path": "/root/.hermes/skills/software-development/multi-agent-application-design",
+        "created": "2026-06-11 18:26",
+        "modified": "2026-06-11 18:26",
+        "references": 2,
+        "reference_files": [
+          "references/agentic-ai-maritime-stack-blueprint.md",
+          "references/crewai-video-automation-blueprint.md"
+        ],
+        "archived": false
+      },
+      {
+        "name": "recherche-information-roger",
+        "category": "productivity",
+        "description": "Use when helping Roger find and finance a post-BTS international commerce/business training program in France, prioritizing alternance before the end of June.",
+        "tags": [],
+        "path": "/root/.hermes/skills/productivity/recherche-information-roger",
+        "created": "2026-06-12 09:33",
+        "modified": "2026-06-12 09:33",
+        "references": 1,
+        "reference_files": [
+          "references/mini-site-marketing-maritime.md"
+        ],
+        "archived": false
+      },
+      {
+        "name": "ai-agent-architect-mini-site",
+        "category": "autonomous-ai-agents",
+        "description": "Use when the user wants to explain, teach, package, or extend the AI Agent Architect / Agentic AI Solutions Architect concept, especially with a maritime specialization, multi-agent workflows, CrewAI-style agents, and shareable HTML/CSS mini-sites.",
+        "tags": [],
+        "path": "/root/.hermes/skills/autonomous-ai-agents/ai-agent-architect-mini-site",
+        "created": "2026-06-12 14:46",
+        "modified": "2026-06-12 14:46",
+        "references": 0,
+        "reference_files": [],
+        "archived": false
+      },
+      {
+        "name": "roger1",
+        "category": "productivity",
+        "description": "Use when the user refers to Roger, the Roger mini-site, the HTML/CSS pages created for Roger, or Roger's role in marketing and market research for the maritime AI-agent project.",
+        "tags": [],
+        "path": "/root/.hermes/skills/productivity/roger1",
+        "created": "2026-06-12 14:48",
+        "modified": "2026-06-12 14:48",
+        "references": 0,
+        "reference_files": [],
+        "archived": false
+      },
+      {
+        "name": "ai-automation-productization-deliverables",
+        "category": "productivity",
+        "description": "Turn AI automation ideas into sellable client-facing packages: productized offers, ROI estimates, implementation plans, shareable interactive diagrams, dossiers, and ZIP/HTML deliverables.",
+        "tags": [],
+        "path": "/root/.hermes/skills/productivity/ai-automation-productization-deliverables",
+        "created": "2026-06-12 16:26",
+        "modified": "2026-06-12 16:26",
+        "references": 8,
+        "reference_files": [
+          "references/questionnaire-to-advisor-saas-v1.md",
+          "references/ai-automation-factory-reusability.md",
+          "references/short-video-ai-content-factory.md",
+          "references/ai-video-factory-v3.md",
+          "references/investor-page-v9-pattern.md",
+          "references/ai-video-factory-v6-dev-dossier.md",
+          "references/hotel-event-marketing-agent.md",
+          "references/ai-architecture-advisor-stbp-v2.md"
+        ],
+        "archived": false
+      },
+      {
+        "name": "audio-transcription",
+        "category": "media",
+        "description": "Transcribe user-provided audio attachments and voice-note-like files into cleaned text, segments, summaries, and deliverable transcript files.",
+        "tags": [],
+        "path": "/root/.hermes/skills/media/audio-transcription",
+        "created": "2026-06-15 13:30",
+        "modified": "2026-06-15 13:30",
+        "references": 1,
+        "reference_files": [
+          "references/telegram-audio-patterns.md"
+        ],
+        "archived": false
+      },
+      {
+        "name": "hermes-operations-security",
+        "category": "devops",
+        "description": "Operate, observe, troubleshoot, and security-audit Hermes deployments, including API Server/Open WebUI integrations, token usage dashboards, Codex quota correlation, and prompt-injection hardening.",
+        "tags": [],
+        "path": "/root/.hermes/skills/devops/hermes-operations-security",
+        "created": "2026-06-15 18:41",
+        "modified": "2026-06-15 18:41",
+        "references": 9,
+        "reference_files": [
+          "references/hermes-plus-token-economics.md",
+          "references/codex-cache-read-quota-testing.md",
+          "references/codex-open-webui-auth-issues-2026-05.md",
+          "references/hermes-prompt-injection-audit-recipe.md",
+          "references/openai-codex-analytics.md",
+          "references/token-query-24h.md",
+          "references/docker-compose-gateway-codex-fix-2026-05.md",
+          "references/token-monitor-v1.md",
+          "references/codex-quota-correlation.md"
+        ],
+        "archived": false
+      },
+      {
+        "name": "technology-discovery-and-watch",
+        "category": "research",
+        "description": "Discover current local tech/AI events and build scheduled technology-watch digests from sources like event pages, Reddit, RSS, blogs, and search results.",
+        "tags": [],
+        "path": "/root/.hermes/skills/research/technology-discovery-and-watch",
+        "created": "2026-06-18 21:35",
+        "modified": "2026-06-18 21:35",
+        "references": 3,
+        "reference_files": [
+          "references/telegram-ai-community-discovery.md",
+          "references/bordeaux-tech-event-sources-2026-06.md",
+          "references/reddit-hermes-test.md"
+        ],
+        "archived": false
+      },
+      {
+        "name": "consumer-offer-risk-review",
+        "category": "productivity",
+        "description": "Review consumer-facing offers, trainings, coaching programs, subscriptions, guarantees, refund clauses, payment risk, CPF/funding eligibility, and public proof before the user pays.",
+        "tags": [],
+        "path": "/root/.hermes/skills/productivity/consumer-offer-risk-review",
+        "created": "2026-06-19 13:30",
+        "modified": "2026-06-19 13:30",
+        "references": 10,
+        "reference_files": [
+          "references/public-community-discussion-sampling.md",
+          "references/cpf-and-refund-checklist.md",
+          "references/super-coach-refund-analysis.md",
+          "references/skool-community-due-diligence-metrics.md",
+          "references/alumni-outcome-verification.md",
+          "references/high-ticket-masterclass-funnel-review.md",
+          "references/skool-community-age-member-history.md",
+          "references/skool-public-resource-extraction.md",
+          "references/comparable-training-market-scan.md",
+          "references/teachizy-offer-legal-document-extraction.md"
+        ],
+        "archived": false
+      },
+      {
+        "name": "youtube-content",
+        "category": "media",
+        "description": "YouTube transcripts to summaries, threads, blogs.",
+        "tags": [],
+        "path": "/root/.hermes/skills/media/youtube-content",
+        "created": "2026-06-19 13:30",
+        "modified": "2026-06-19 13:30",
+        "references": 3,
+        "reference_files": [
+          "references/output-formats.md",
+          "references/vimeo-embedded-replay-extraction.md",
+          "references/trend-scoring-volume-estimation.md"
+        ],
+        "archived": false
+      },
+      {
+        "name": "automotive-diagnostics",
+        "category": "automotive",
+        "description": "Diagnose vehicle faults from OBD codes, live sensor data, symptoms, photos, and repair documents; produce safe, prioritized on-site checklists in the user's language.",
+        "tags": [],
+        "path": "/root/.hermes/skills/automotive/automotive-diagnostics",
+        "created": "2026-06-19 14:37",
+        "modified": "2026-06-19 14:37",
+        "references": 1,
+        "reference_files": [
+          "references/psa-2-0-hdi-white-smoke-obd.md"
+        ],
+        "archived": false
+      },
+      {
+        "name": "claude-design",
+        "category": "creative",
+        "description": "Design one-off HTML artifacts (landing, deck, prototype).",
+        "tags": [],
+        "path": "/root/.hermes/skills/creative/claude-design",
+        "created": "2026-06-22 02:56",
+        "modified": "2026-06-22 02:56",
+        "references": 4,
+        "reference_files": [
+          "references/investor-mini-site-v10.md",
+          "references/static-mini-site-vps-deploy.md",
+          "references/agentic-ai-maritime-mini-site.md",
+          "references/legacy-static-site-redesign.md"
+        ],
+        "archived": false
+      },
+      {
+        "name": "minecraft-modpack-server",
+        "category": "gaming",
+        "description": "Host modded Minecraft servers (CurseForge, Modrinth).",
+        "tags": [
+          "minecraft",
+          "gaming",
+          "server",
+          "neoforge",
+          "forge",
+          "modpack"
+        ],
+        "path": "/root/.hermes/skills/gaming/minecraft-modpack-server",
+        "created": "2026-06-22 02:56",
+        "modified": "2026-06-22 02:56",
+        "references": 1,
+        "reference_files": [
+          "references/private-launcher-auth.md"
+        ],
+        "archived": false
+      },
+      {
+        "name": "hermes-token-monitoring",
+        "category": "devops",
+        "description": "Monitor Hermes token consumption and ChatGPT/Codex quota windows using Hermes insights, local token dashboards, and Codex analytics.",
+        "tags": [],
+        "path": "/root/.hermes/skills/devops/hermes-token-monitoring",
+        "created": "2026-06-22 13:06",
+        "modified": "2026-06-22 13:06",
+        "references": 1,
+        "reference_files": [
+          "references/token-monitor-api.md"
+        ],
+        "archived": false
+      },
+      {
+        "name": "maps",
+        "category": "productivity",
+        "description": "Geocode, POIs, routes, timezones via OpenStreetMap/OSRM.",
+        "tags": [],
+        "path": "/root/.hermes/skills/productivity/maps",
+        "created": "2026-06-22 15:39",
+        "modified": "2026-06-22 15:39",
+        "references": 1,
+        "reference_files": [
+          "references/local-optician-research-france.md"
+        ],
+        "archived": false
+      },
+      {
+        "name": "self-hosted-media-server",
+        "category": "media",
+        "description": "Design and deploy personal media-server stacks: Jellyfin/Plex, qBittorrent, custom upload/progress portals, mobile streaming, Docker Compose, storage and security tradeoffs.",
+        "tags": [],
+        "path": "/root/.hermes/skills/media/self-hosted-media-server",
+        "created": "2026-06-22 19:48",
+        "modified": "2026-06-22 19:48",
+        "references": 4,
+        "reference_files": [
+          "references/netflix-perso-v1-per-file-controls.md",
+          "references/netflix-perso-mobile-preselect.md",
+          "references/vps-jellyfin-qbittorrent-portal.md",
+          "references/vps-media-stack-backup-restore.md"
+        ],
+        "archived": false
+      },
+      {
+        "name": "popular-web-designs",
+        "category": "creative",
+        "description": "54 real design systems (Stripe, Linear, Vercel) as HTML/CSS.",
+        "tags": [
+          "design",
+          "css",
+          "html",
+          "ui",
+          "web-development",
+          "design-systems",
+          "templates"
+        ],
+        "path": "/root/.hermes/skills/creative/popular-web-designs",
+        "created": "2026-06-23 18:53",
+        "modified": "2026-06-23 18:53",
+        "references": 2,
+        "reference_files": [
+          "references/multilingual-static-landing-vps.md",
+          "references/local-business-static-site-deployment.md"
+        ],
+        "archived": false
+      },
+      {
+        "name": "localized-web-research",
+        "category": "research",
+        "description": "Find and present web references in the user's requested language/locale, with clear source-quality labels and fallbacks when local-language sources are scarce.",
+        "tags": [
+          "web-research",
+          "localization",
+          "source-vetting",
+          "multilingual"
+        ],
+        "path": "/root/.hermes/skills/research/localized-web-research",
+        "created": "2026-06-23 20:09",
+        "modified": "2026-06-23 20:09",
+        "references": 4,
+        "reference_files": [
+          "references/hostinger-vps-pricing.md",
+          "references/fr-piscine-chlore-non-stabilise.md",
+          "references/meditation-transcendantale-fr.md",
+          "references/fr-optique-css-100-sante.md"
+        ],
+        "archived": false
+      },
+      {
+        "name": "desktop-media-assistant",
+        "category": "productivity",
+        "description": "Build/configure a Hermes-driven desktop or TV assistant for couch voice control of browser/media apps like YouTube, Netflix, VLC, and web search.",
+        "tags": [],
+        "path": "/root/.hermes/skills/productivity/desktop-media-assistant",
+        "created": "2026-06-23 22:51",
+        "modified": "2026-06-23 22:51",
+        "references": 1,
+        "reference_files": [
+          "references/windows-tv-assistant.md"
+        ],
+        "archived": false
+      },
+      {
+        "name": "systematic-debugging",
+        "category": "software-development",
+        "description": "4-phase root cause debugging: understand bugs before fixing.",
+        "tags": [],
+        "path": "/root/.hermes/skills/software-development/systematic-debugging",
+        "created": "2026-06-24 11:07",
+        "modified": "2026-06-24 11:07",
+        "references": 0,
+        "reference_files": [],
+        "archived": false
+      },
+      {
+        "name": "marketplace-listing-research",
+        "category": "research",
+        "description": "Research local marketplace listings (cars, property, equipment) across public listing sites; extract comparable offers; produce ranked CSV/HTML/Markdown/JSON reports and ZIP deliverables with source limitations.",
+        "tags": [],
+        "path": "/root/.hermes/skills/research/marketplace-listing-research",
+        "created": "2026-06-24 16:58",
+        "modified": "2026-06-24 16:58",
+        "references": 8,
+        "reference_files": [
+          "references/leboncoin-human-assisted-watcher.md",
+          "references/france-alternative-land-search.md",
+          "references/france-used-car-marketplaces.md",
+          "references/bordeaux-off-grid-land-search.md",
+          "references/bienici-low-cost-land-search.md",
+          "references/off-grid-land-utilities-france.md",
+          "references/lbc-human-assisted-watcher.md",
+          "references/france-water-land-live-verification.md"
+        ],
+        "archived": false
+      },
+      {
+        "name": "dogfood",
+        "category": "general",
+        "description": "Exploratory QA of web apps: find bugs, evidence, reports.",
+        "tags": [],
+        "path": "/root/.hermes/skills/dogfood",
+        "created": "2026-06-24 18:29",
+        "modified": "2026-06-24 18:29",
+        "references": 1,
+        "reference_files": [
+          "references/issue-taxonomy.md"
+        ],
+        "archived": false
+      },
+      {
+        "name": "autonomous-static-site-delivery",
+        "category": "software-development",
+        "description": "Create, deploy, and autonomously QA static/landing sites for the user before reporting back.",
+        "tags": [],
+        "path": "/root/.hermes/skills/software-development/autonomous-static-site-delivery",
+        "created": "2026-06-24 18:36",
+        "modified": "2026-06-24 18:36",
+        "references": 1,
+        "reference_files": [
+          "references/site-qa-checklist.md"
+        ],
+        "archived": false
+      },
+      {
+        "name": "static-site-vps-deployment",
+        "category": "devops",
+        "description": "Build or adapt a static landing page and deploy it on a VPS behind Nginx, including brand/content updates, subpath hosting, and verification.",
+        "tags": [
+          "static-site",
+          "nginx",
+          "vps",
+          "landing-page",
+          "deployment",
+          "web-hosting"
+        ],
+        "path": "/root/.hermes/skills/devops/static-site-vps-deployment",
+        "created": "2026-06-24 19:21",
+        "modified": "2026-06-24 19:21",
+        "references": 6,
+        "reference_files": [
+          "references/gms-lanzarote-nginx-subpath.md",
+          "references/hermes-tools-inventory-minisite.md",
+          "references/static-site-working-copies.md",
+          "references/vps-server-and-change-log-pages.md",
+          "references/static-site-variant-subpaths.md",
+          "references/vps-work-inventory-backup-pages.md"
+        ],
+        "archived": false
+      },
+      {
+        "name": "consumer-offer-due-diligence",
+        "category": ".archive",
+        "description": "ARCHIVED: absorbed into consumer-offer-risk-review. Analyze consumer-facing offers by comparing marketing promises against legal/contract pages.",
+        "tags": [],
+        "path": "/root/.hermes/skills/.archive/consumer-offer-due-diligence",
+        "created": "2026-06-11 12:01",
+        "modified": "2026-06-11 12:01",
+        "references": 1,
+        "reference_files": [
+          "references/super-coach-refund-analysis.md"
+        ],
+        "archived": true
+      },
+      {
+        "name": "consumer-training-contract-review",
+        "category": ".archive",
+        "description": "ARCHIVED: absorbed into consumer-offer-risk-review. Review training/coaching offers for refund, payment-risk, and CPF/funding issues.",
+        "tags": [],
+        "path": "/root/.hermes/skills/.archive/consumer-training-contract-review",
+        "created": "2026-06-11 12:01",
+        "modified": "2026-06-11 12:01",
+        "references": 2,
+        "reference_files": [
+          "references/cpf-and-refund-checklist.md",
+          "references/alumni-outcome-verification.md"
+        ],
+        "archived": true
+      },
+      {
+        "name": "hermes-open-webui-troubleshooting",
+        "category": ".archive",
+        "description": "ARCHIVED: absorbed into hermes-operations-security. Troubleshoot Hermes API Server/Open WebUI integrations.",
+        "tags": [],
+        "path": "/root/.hermes/skills/.archive/hermes-open-webui-troubleshooting",
+        "created": "2026-06-11 12:01",
+        "modified": "2026-06-11 12:01",
+        "references": 2,
+        "reference_files": [
+          "references/codex-open-webui-auth-issues-2026-05.md",
+          "references/docker-compose-gateway-codex-fix-2026-05.md"
+        ],
+        "archived": true
+      },
+      {
+        "name": "hermes-usage-monitoring",
+        "category": ".archive",
+        "description": "ARCHIVED: absorbed into hermes-operations-security. Build, inspect, deploy, troubleshoot, and cost-analyze Hermes/LLM token usage.",
+        "tags": [],
+        "path": "/root/.hermes/skills/.archive/hermes-usage-monitoring",
+        "created": "2026-06-11 12:01",
+        "modified": "2026-06-11 12:01",
+        "references": 6,
+        "reference_files": [
+          "references/hermes-plus-token-economics.md",
+          "references/codex-cache-read-quota-testing.md",
+          "references/openai-codex-analytics.md",
+          "references/token-query-24h.md",
+          "references/token-monitor-v1.md",
+          "references/codex-quota-correlation.md"
+        ],
+        "archived": true
+      },
+      {
+        "name": "local-tech-events",
+        "category": ".archive",
+        "description": "ARCHIVED: absorbed into technology-discovery-and-watch. Discover and summarize local tech/AI/networking events for a city.",
+        "tags": [],
+        "path": "/root/.hermes/skills/.archive/local-tech-events",
+        "created": "2026-06-11 12:01",
+        "modified": "2026-06-11 12:01",
+        "references": 1,
+        "reference_files": [
+          "references/bordeaux-tech-event-sources-2026-06.md"
+        ],
+        "archived": true
+      },
+      {
+        "name": "marketing-automation-agents",
+        "category": ".archive",
+        "description": "ARCHIVED: absorbed into ai-automation-productization-deliverables. Plan, price, and package AI marketing automation agents.",
+        "tags": [],
+        "path": "/root/.hermes/skills/.archive/marketing-automation-agents",
+        "created": "2026-06-11 12:01",
+        "modified": "2026-06-11 12:01",
+        "references": 2,
+        "reference_files": [
+          "references/short-video-ai-content-factory.md",
+          "references/hotel-event-marketing-agent.md"
+        ],
+        "archived": true
+      },
+      {
+        "name": "prompt-injection-security-audits",
+        "category": ".archive",
+        "description": "ARCHIVED: absorbed into hermes-operations-security. Audit AI-agent configurations for prompt-injection risk and hardening.",
+        "tags": [],
+        "path": "/root/.hermes/skills/.archive/prompt-injection-security-audits",
+        "created": "2026-06-11 12:01",
+        "modified": "2026-06-11 12:01",
+        "references": 1,
+        "reference_files": [
+          "references/hermes-prompt-injection-audit-recipe.md"
+        ],
+        "archived": true
+      },
+      {
+        "name": "scheduled-tech-watch-digests",
+        "category": ".archive",
+        "description": "ARCHIVED: absorbed into technology-discovery-and-watch. Build scheduled technology-watch automations and concise digests.",
+        "tags": [],
+        "path": "/root/.hermes/skills/.archive/scheduled-tech-watch-digests",
+        "created": "2026-06-11 12:01",
+        "modified": "2026-06-11 12:01",
+        "references": 1,
+        "reference_files": [
+          "references/reddit-hermes-test.md"
+        ],
+        "archived": true
+      },
+      {
+        "name": "shareable-interactive-diagrams",
+        "category": ".archive",
+        "description": "ARCHIVED: absorbed into ai-automation-productization-deliverables. Build shareable static HTML mini-sites for diagrams and dossiers.",
+        "tags": [],
+        "path": "/root/.hermes/skills/.archive/shareable-interactive-diagrams",
+        "created": "2026-06-11 12:01",
+        "modified": "2026-06-11 12:01",
+        "references": 4,
+        "reference_files": [
+          "references/ai-automation-factory-reusability.md",
+          "references/ai-video-factory-v3.md",
+          "references/investor-page-v9-pattern.md",
+          "references/ai-video-factory-v6-dev-dossier.md"
+        ],
+        "archived": true
+      },
+      {
+        "name": "voice-replies",
+        "category": ".archive",
+        "description": "ARCHIVED: absorbed into spoken-message-delivery. Create short spoken replies for messaging platforms using TTS.",
+        "tags": [],
+        "path": "/root/.hermes/skills/.archive/voice-replies",
+        "created": "2026-06-11 12:01",
+        "modified": "2026-06-11 12:01",
+        "references": 1,
+        "reference_files": [
+          "references/french-voice-timing.md"
+        ],
+        "archived": true
+      }
+    ]
+  },
+  "codebase_analysis": {
+    "generated": "2026-06-24 19:53 UTC",
+    "repository": "https://github.com/NousResearch/hermes-agent",
+    "local_repo": "/usr/local/lib/hermes-agent",
+    "snapshots": [
+      "v2026.3.12",
+      "v2026.6.5",
+      "v2026.6.19"
+    ],
+    "metrics": {
+      "v2026.3.12": {
+        "files": 817,
+        "bytes": 16226826,
+        "lines": 353253,
+        "topdirs": [
+          [
+            "skills",
+            354
+          ],
+          [
+            "tests",
+            165
+          ],
+          [
+            "website",
+            72
+          ],
+          [
+            "tools",
+            45
+          ],
+          [
+            "environments",
+            42
+          ],
+          [
+            "hermes_cli",
+            25
+          ],
+          [
+            "gateway",
+            21
+          ],
+          [
+            "landingpage",
+            11
+          ],
+          [
+            "agent",
+            11
+          ],
+          [
+            "optional-skills",
+            10
+          ],
+          [
+            "scripts",
+            10
+          ],
+          [
+            ".github",
+            7
+          ],
+          [
+            "datagen-config-examples",
+            4
+          ],
+          [
+            "honcho_integration",
+            3
+          ],
+          [
+            "cron",
+            3
+          ],
+          [
+            ".plans",
+            2
+          ],
+          [
+            "model_tools.py",
+            1
+          ],
+          [
+            "RELEASE_v0.2.0.md",
+            1
+          ]
+        ],
+        "languages": [
+          [
+            "Python",
+            336,
+            131824
+          ],
+          [
+            "Markdown",
+            316,
+            129665
+          ],
+          [
+            "Other",
+            107,
+            58783
+          ],
+          [
+            "JSON",
+            18,
+            23821
+          ],
+          [
+            "Lock",
+            1,
+            3372
+          ],
+          [
+            "Shell",
+            9,
+            1693
+          ],
+          [
+            "CSS",
+            2,
+            1392
+          ],
+          [
+            "YAML",
+            19,
+            1050
+          ],
+          [
+            "JavaScript",
+            2,
+            724
+          ],
+          [
+            "HTML",
+            1,
+            505
+          ],
+          [
+            "TypeScript",
+            2,
+            241
+          ],
+          [
+            "Text",
+            3,
+            96
+          ],
+          [
+            "TOML",
+            1,
+            87
+          ]
+        ]
+      },
+      "v2026.6.5": {
+        "files": 4713,
+        "bytes": 105439780,
+        "lines": 2018295,
+        "topdirs": [
+          [
+            "tests",
+            1415
+          ],
+          [
+            "website",
+            723
+          ],
+          [
+            "skills",
+            466
+          ],
+          [
+            "apps",
+            442
+          ],
+          [
+            "optional-skills",
+            394
+          ],
+          [
+            "ui-tui",
+            351
+          ],
+          [
+            "plugins",
+            229
+          ],
+          [
+            "hermes_cli",
+            122
+          ],
+          [
+            "agent",
+            109
+          ],
+          [
+            "web",
+            105
+          ],
+          [
+            "tools",
+            101
+          ],
+          [
+            "gateway",
+            65
+          ],
+          [
+            "scripts",
+            31
+          ],
+          [
+            ".github",
+            29
+          ],
+          [
+            "locales",
+            16
+          ],
+          [
+            "docker",
+            16
+          ],
+          [
+            "nix",
+            12
+          ],
+          [
+            "acp_adapter",
+            10
+          ]
+        ],
+        "languages": [
+          [
+            "Python",
+            2082,
+            1011055
+          ],
+          [
+            "Markdown",
+            1345,
+            429972
+          ],
+          [
+            "Other",
+            259,
+            322795
+          ],
+          [
+            "TypeScript",
+            514,
+            97254
+          ],
+          [
+            "TSX",
+            259,
+            74449
+          ],
+          [
+            "JSON",
+            54,
+            49151
+          ],
+          [
+            "YAML",
+            123,
+            9963
+          ],
+          [
+            "Shell",
+            24,
+            6345
+          ],
+          [
+            "Lock",
+            2,
+            4456
+          ],
+          [
+            "Rust",
+            9,
+            3199
+          ],
+          [
+            "CSS",
+            6,
+            3017
+          ],
+          [
+            "Nix",
+            13,
+            2568
+          ],
+          [
+            "HTML",
+            9,
+            2561
+          ],
+          [
+            "JavaScript",
+            6,
+            1021
+          ],
+          [
+            "TOML",
+            2,
+            405
+          ]
+        ]
+      },
+      "v2026.6.19": {
+        "files": 5262,
+        "bytes": 112721154,
+        "lines": 2200942,
+        "topdirs": [
+          [
+            "tests",
+            1639
+          ],
+          [
+            "website",
+            732
+          ],
+          [
+            "apps",
+            591
+          ],
+          [
+            "skills",
+            452
+          ],
+          [
+            "optional-skills",
+            416
+          ],
+          [
+            "ui-tui",
+            364
+          ],
+          [
+            "plugins",
+            252
+          ],
+          [
+            "hermes_cli",
+            180
+          ],
+          [
+            "web",
+            125
+          ],
+          [
+            "agent",
+            119
+          ],
+          [
+            "tools",
+            106
+          ],
+          [
+            "gateway",
+            78
+          ],
+          [
+            "scripts",
+            32
+          ],
+          [
+            ".github",
+            31
+          ],
+          [
+            "locales",
+            16
+          ],
+          [
+            "docker",
+            16
+          ],
+          [
+            "nix",
+            12
+          ],
+          [
+            "acp_adapter",
+            11
+          ]
+        ],
+        "languages": [
+          [
+            "Python",
+            2414,
+            1143234
+          ],
+          [
+            "Markdown",
+            1367,
+            435211
+          ],
+          [
+            "Other",
+            301,
+            327198
+          ],
+          [
+            "TypeScript",
+            605,
+            120980
+          ],
+          [
+            "TSX",
+            314,
+            91982
+          ],
+          [
+            "JSON",
+            56,
+            47507
+          ],
+          [
+            "YAML",
+            127,
+            10355
+          ],
+          [
+            "Shell",
+            24,
+            6606
+          ],
+          [
+            "Lock",
+            2,
+            4565
+          ],
+          [
+            "Rust",
+            9,
+            3404
+          ],
+          [
+            "CSS",
+            7,
+            3289
+          ],
+          [
+            "HTML",
+            9,
+            2583
+          ],
+          [
+            "Nix",
+            13,
+            2444
+          ],
+          [
+            "JavaScript",
+            6,
+            1042
+          ],
+          [
+            "TOML",
+            2,
+            458
+          ]
+        ]
+      }
+    },
+    "diffs": {
+      "first_to_17": {
+        "shortstat": "4675 files changed, 1486007 insertions(+), 61511 deletions(-)",
+        "status_counts": {
+          "A": 728,
+          "M": 24,
+          "D": 2,
+          ".": 1,
+          "c": 1
+        },
+        "top_changed_dirs": [
+          [
+            "apps",
+            303
+          ],
+          [
+            "website",
+            288
+          ],
+          [
+            "agent",
+            108
+          ],
+          [
+            ".github",
+            27
+          ],
+          [
+            "acp_adapter",
+            10
+          ],
+          [
+            "acp_registry",
+            2
+          ],
+          [
+            "",
+            2
+          ],
+          [
+            ".dockerignore",
+            1
+          ],
+          [
+            ".env.example",
+            1
+          ],
+          [
+            ".envrc",
+            1
+          ],
+          [
+            ".gitattributes",
+            1
+          ],
+          [
+            ".gitignore",
+            1
+          ],
+          [
+            ".gitmodules",
+            1
+          ],
+          [
+            ".hadolint.yaml",
+            1
+          ],
+          [
+            ".mailmap",
+            1
+          ],
+          [
+            "AGENTS.md",
+            1
+          ],
+          [
+            "CONTRIBUTING.md",
+            1
+          ],
+          [
+            "Dockerfile",
+            1
+          ],
+          [
+            "MANIFEST.in",
+            1
+          ],
+          [
+            "README.md",
+            1
+          ]
+        ]
+      },
+      "first_to_latest": {
+        "shortstat": "5231 files changed, 1672126 insertions(+), 62950 deletions(-)",
+        "status_counts": {
+          "A": 740,
+          "M": 25,
+          "D": 2,
+          ".": 1,
+          "r": 1
+        },
+        "top_changed_dirs": [
+          [
+            "apps",
+            298
+          ],
+          [
+            "website",
+            291
+          ],
+          [
+            "agent",
+            118
+          ],
+          [
+            ".github",
+            29
+          ],
+          [
+            "acp_adapter",
+            11
+          ],
+          [
+            "acp_registry",
+            2
+          ],
+          [
+            "",
+            2
+          ],
+          [
+            ".dockerignore",
+            1
+          ],
+          [
+            ".env.example",
+            1
+          ],
+          [
+            ".envrc",
+            1
+          ],
+          [
+            ".gitattributes",
+            1
+          ],
+          [
+            ".gitignore",
+            1
+          ],
+          [
+            ".gitmodules",
+            1
+          ],
+          [
+            ".hadolint.yaml",
+            1
+          ],
+          [
+            ".mailmap",
+            1
+          ],
+          [
+            "AGENTS.md",
+            1
+          ],
+          [
+            "CONTRIBUTING.md",
+            1
+          ],
+          [
+            "Dockerfile",
+            1
+          ],
+          [
+            "MANIFEST.in",
+            1
+          ],
+          [
+            "README.md",
+            1
+          ]
+        ]
+      },
+      "v17_to_latest": {
+        "shortstat": "1694 files changed, 235416 insertions(+), 50736 deletions(-)",
+        "status_counts": {
+          "M": 743,
+          "A": 336,
+          "D": 15,
+          "R": 5,
+          ".": 1,
+          "s": 1
+        },
+        "top_changed_dirs": [
+          [
+            "apps",
+            351
+          ],
+          [
+            "tests",
+            336
+          ],
+          [
+            "website",
+            150
+          ],
+          [
+            "ui-tui",
+            59
+          ],
+          [
+            "web",
+            59
+          ],
+          [
+            "agent",
+            55
+          ],
+          [
+            "tools",
+            50
+          ],
+          [
+            ".github",
+            18
+          ],
+          [
+            "tui_gateway",
+            4
+          ],
+          [
+            "acp_adapter",
+            2
+          ],
+          [
+            "",
+            2
+          ],
+          [
+            ".dockerignore",
+            1
+          ],
+          [
+            ".gitignore",
+            1
+          ],
+          [
+            "AGENTS.md",
+            1
+          ],
+          [
+            "CONTRIBUTING.md",
+            1
+          ],
+          [
+            "Dockerfile",
+            1
+          ],
+          [
+            "MANIFEST.in",
+            1
+          ],
+          [
+            "README.md",
+            1
+          ],
+          [
+            "README.ur-pk.md",
+            1
+          ],
+          [
+            "README.zh-CN.md",
+            1
+          ]
+        ]
+      }
+    },
+    "pages": [
+      "code-source.html",
+      "versions-hermes.html",
+      "fichiers-hermes.html"
+    ]
+  }
+}
